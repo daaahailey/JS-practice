@@ -10,7 +10,7 @@ for (let i = 1; i < 5; i += 2) {
 }
 
 // a = 12 (1st iteration)
-// a = 14 (2nd iteration) and it gets out from if statement because i become 6
+// a = 14 (2nd iteration) and it gets out from if statement because i becomes 6
 
 // so a = 14
 
